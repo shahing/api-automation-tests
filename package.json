@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "automate with postman & newman",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shahing/api-automation-tests.git"
